@@ -140,8 +140,8 @@ Academic operating system development project focused on system calls, process m
 
 ## Contact
 
-- Email: thebluad@gmail.com
-- LinkedIn: [Add your LinkedIn here]
+- Email: mselaivecode@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matias-selaive-campos-5618a8353/
 
 ---
 
